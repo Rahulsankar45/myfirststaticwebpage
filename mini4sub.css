@@ -1,0 +1,48 @@
+ h1{
+
+            color: rgb(29, 19, 219);
+            text-shadow: 3px 3px 3px rgb(241, 234, 234);
+            text-transform: capitalize;
+            text-decoration: solid;
+            font-weight: 1000;
+            
+        }
+        h2{
+            color: rgb(41, 40, 41);
+            text-shadow: 2px 2px 2px rgb(228, 233, 236);
+        }
+
+        
+        div{
+            padding: 10px;
+            border: 1px solid rgb(145, 145, 145);
+            margin: 20px;
+            width: 70% ;
+            background-color: rgb(183, 215, 205);
+            border-radius: 10px;
+        }
+        image{
+            padding: 10px;
+            border: 5px solid black;
+            margin: 20px;
+        }
+        nav a{
+            padding: 40px;
+            text-align: center;
+            color: aliceblue;
+            text-shadow: none;
+            
+
+
+        }
+        nav{
+            background-color: rgb(140, 136, 136);
+            overflow: hidden;
+        }
+        nav a:hover{
+            color: tomato;
+        }
+        footer{
+            word-spacing: 30px;
+            text-decoration: none;
+        }
